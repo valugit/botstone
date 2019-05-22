@@ -6,4 +6,4 @@ La commande "!" (ex. "!C'thun") permet d'avoir le visuel de la carte ainsi que s
 
 # Important
 
-Replancez "<YOUR KEY HERE>" par votre clé privée.
+Replancez "YOUR KEY HERE" par votre clé privée.
